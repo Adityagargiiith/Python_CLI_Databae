@@ -1,7 +1,5 @@
 # Airways Managment Database
 
-### Working Video :- `https://youtu.be/HHhDdtOgVk4`
-
 ## Introduction to the Mini-World
 
 Our mini-world is based on the Airline system, a critical component of any airline’s operations. It stores and manages all the data essential to the airline’s day-to-day business, including information about flights, passengers, reservations, aircraft, and airports. The database comprises a variety of entities and attributes along with their relationships, which can be utilized by various users, including airline employees, passengers, travel agents, government agencies, and researchers.
@@ -14,6 +12,7 @@ Our mini-world is based on the Airline system, a critical component of any airli
 ## Users of the Database
 
 The database would be used by:
+
 - Airline employees
 - Passengers
 - Travel agents
@@ -25,17 +24,17 @@ The database would be used by:
 - **Passengers**: Can use the database to book flights, check flight status, and manage reservations.
 - **Travel Agents**: Use the database to book flights for their clients and manage their clients’ reservations.
 
-
-
 ## Installation and Setup
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/harsh-gupta10/AirwaysManagmentDatabase/
+   git clone https://github.com/Adityagargiiith/Python_CLI_Databae.git
    cd airline-database
+   ```
+
 - fill password in `db_config`
 - and just run `source_code.py`
 
-- Go thorugh all Pdf files To see development stages 
+- Go thorugh all Pdf files To see development stages
 
 - To see final Product Just DemoVideo.mp4 video is enough
